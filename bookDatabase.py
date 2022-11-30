@@ -1,5 +1,8 @@
 import psycopg2
 
+# Name: Jack Yeager
+# Student Number: 101180117
+
 def addNewBook():
     print("\n\nEnter ISBN, Title, Price, Stock")
     isbn = input()
